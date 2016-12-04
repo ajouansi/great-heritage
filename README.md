@@ -12,6 +12,7 @@ Great heritage of &amp; for every A.N.S.I. members
   - [Problems for intermediate](#problems-for-intermediate)
   - [Problems for advanced](#problems-for-advanced)
   - [Problems for expert](#problems-for-expert)
+  - [Related with problem solving](#related-with-problem-solving)
 - [How to Contribute](#how-to-contribute)
 
 ## Language
@@ -33,6 +34,8 @@ Great heritage of &amp; for every A.N.S.I. members
 ### Problems for advanced
 
 ### Problems for expert
+
+### Related with problem solving
 
 ## How to contribute
 
