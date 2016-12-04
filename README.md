@@ -24,6 +24,8 @@ Great heritage of &amp; for every A.N.S.I. members
 
 ### Problems for novice
 
+- [L1000:A+B](http://lavida.us/problem.php?id=1000) : Trivial
+
 ### Problems for beginner
 
 ### Problems for intermediate
