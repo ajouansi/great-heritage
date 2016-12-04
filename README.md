@@ -12,6 +12,7 @@ Great heritage of &amp; for every A.N.S.I. members
   - [Problems for intermediate](#problems-for-intermediate)
   - [Problems for advanced](#problems-for-advanced)
   - [Problems for expert](#problems-for-expert)
+- [How to Contribute](#how-to-contribute)
 
 ## Language
 
@@ -30,3 +31,13 @@ Great heritage of &amp; for every A.N.S.I. members
 ### Problems for advanced
 
 ### Problems for expert
+
+## How to contribute
+
+1. click `README.md`
+1. press `e` key
+1. edit this document
+1. put appropiate commit message & description about your commit
+1. commit changes
+1. pull request your changes
+1. Administrator will review and merge it
